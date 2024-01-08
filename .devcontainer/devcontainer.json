@@ -2,7 +2,7 @@
     "name": "Dockerfile devcontainer",
     "build": {
         "context": "..",
-        "dockerfile": "../Dockerfile"
+        "dockerfile": "../dockerfiles/Dockerfile"
     },
     "workspaceFolder": "/workspace",
     "mounts": [
